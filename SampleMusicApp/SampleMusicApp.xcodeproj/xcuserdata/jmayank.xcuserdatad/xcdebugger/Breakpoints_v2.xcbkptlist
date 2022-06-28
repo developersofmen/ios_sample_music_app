@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "B5A13D87-A9F4-4ACD-8F1A-7E8D654B98BE"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B1BEF78E-ABFD-407E-A22E-087E711B8CAA"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SampleMusicApp/ViewModel/AlbumViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "saveAlbumDataToDB(albumAPIModel:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B1BEF78E-ABFD-407E-A22E-087E711B8CAA - 4042406ddba78355"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SampleMusicApp.AlbumViewModel.saveAlbumDataToDB(albumAPIModel: Swift.Optional&lt;SampleMusicApp.AlbumAPIModel&gt;) -&gt; ()"
+                  moduleName = "SampleMusicApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jmayank/sofmen/SampleMusicApp/SampleMusicApp/SampleMusicApp/ViewModel/AlbumViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "32">
+               </Location>
+               <Location
+                  uuid = "B1BEF78E-ABFD-407E-A22E-087E711B8CAA - 4042406ddba78355"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SampleMusicApp.AlbumViewModel.saveAlbumDataToDB(albumAPIModel: Swift.Optional&lt;SampleMusicApp.AlbumAPIModel&gt;) -&gt; ()"
+                  moduleName = "SampleMusicApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jmayank/sofmen/SampleMusicApp/SampleMusicApp/SampleMusicApp/ViewModel/AlbumViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "64">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
